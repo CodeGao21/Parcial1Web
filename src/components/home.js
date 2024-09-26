@@ -8,15 +8,15 @@ export function Home() {
     <div className="min-h-screen flex flex-col">
       {/* Main content with three columns */}
       <div className="flex flex-grow p-5 space-x-5"> 
-        <div className="flex-1 p-5 bg-gray-300">
+        <div className="flex-1 p-5 bg-white-300">
           <h2 className="text-center mb-4 text-xl font-bold">Cycling</h2>
           <CardGallery1 />
         </div>
-        <div className="flex-1 p-5 bg-gray-300">
+        <div className="flex-1 p-5 bg-white-300">
           <h2 className="text-center mb-4 text-xl font-bold">Running</h2>
           <CardGallery2 />
         </div>
-        <div className="flex-1 p-5 bg-gray-300">
+        <div className="flex-1 p-5 bg-white-300">
           <h2 className="text-center mb-4 text-xl font-bold">Swimming</h2>
           <CardGallery3 />
         </div>
