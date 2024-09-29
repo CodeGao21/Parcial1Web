@@ -3,7 +3,7 @@ Para correr el app:
 * Descargar el release
 * Abrirlo en un editor
 * Correr npm install
-* Correr npm run
+* Correr npm start
 
 Si no funciona:
 
